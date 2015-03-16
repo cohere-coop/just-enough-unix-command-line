@@ -5,5 +5,5 @@ Unix command line,
 
 This book collects Jessica Dillon's fantastic [blog
 series](https://quickleft.com/blog/command-line-tutorials-summary-what-s-next/)
-into an eBook and single page website freely available to anyone who wishes to
-read it.
+into an eBook and single page website. If you'd like, you can [pre-order the
+book](https://leanpub.com/just-enough-unix-command-line).

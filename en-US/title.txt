@@ -1,0 +1,11 @@
+---
+title: Just Enough Unix Command Line
+creator:
+  - role: author
+    text: Jessica Dillon
+  - role: editor
+    text: Kiera Manion-Fischer
+publisher: Just Enough Media
+rights: © 2015 Zinc Technology Inc, CC BY-NC
+language: en-US
+---

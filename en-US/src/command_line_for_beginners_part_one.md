@@ -1,6 +1,5 @@
 # Command Line for Beginners Part 1
 
-![OSX Terminal("/wp-content/uploads/13262123622542999_osx_terminal.png")
 If there's one thing that separates code masters from the unknowing masses, it's their ability to use the command line effectively. When I began coding, I quickly realized that by utilizing the command line, many tasks became easier and faster. Your computer is smart; you just have to learn to speak its language.
 
 We're going to start off slow, getting you accustomed to navigating your computer using the Terminal application, but as we go, you'll learn more and more commands, along with some bonus efficiency tips and exciting command line theory! Remember, it's important to take it slow and build a solid foundation, but soon you'll be hacking away like a pro.

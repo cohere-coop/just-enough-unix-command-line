@@ -1,8 +1,6 @@
 # Command Line Tutorials – SSH
 
-Hey everybody! Welcome back to our continuing exploration of the command line. As always, make sure you read the [other posts]("http://quickleft.com/blog/command-line-tutorials-why-i-write-these") if you haven't already.
-
-Today, we're going to talk about two commands related to accessing other servers or computers. If you've ever plan on deploying your software to a server, then remote computing is an important skill to have. Luckily, it's not too hard.
+This chapter, we're going to talk about two commands related to accessing other servers or computers. If you've ever plan on deploying your software to a server, then remote computing is an important skill to have. Luckily, it's not too hard.
 
 First, you're going to want to master the `ssh` command. `ssh` stands for Secure SHell, and it's included on most Unix systems. This kind of command has been around as long as Unix, but this one is important because it encrypts your session, meaning nobody can steal your login credentials, or see what kind of things you're doing on the server. Unfortunately, I can only show you what the commands look like, but if you know a remote host you can connect to (and you have credentials, those are important too), then feel free to follow along.
 

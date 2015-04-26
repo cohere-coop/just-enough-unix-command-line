@@ -3,9 +3,9 @@
 ![OSX Terminal("/wp-content/uploads/13262123622542999_osx_terminal.png")
 If there's one thing that separates code masters from the unknowing masses, it's their ability to use the command line effectively. When I began coding, I quickly realized that by utilizing the command line, many tasks became easier and faster. Your computer is smart; you just have to learn to speak its language.
 
-This is the first installment of a bi-weekly series designed to make you a command line master. We'll start off slow, getting you accustomed to navigating your computer using the Terminal application, but as we go, you'll learn more and more commands, along with some bonus efficiency tips and exciting command line theory! Remember, it's important to take it slow and build a solid foundation, but soon you'll be hacking away like a pro.
+We're going to start off slow, getting you accustomed to navigating your computer using the Terminal application, but as we go, you'll learn more and more commands, along with some bonus efficiency tips and exciting command line theory! Remember, it's important to take it slow and build a solid foundation, but soon you'll be hacking away like a pro.
 
-Before we begin, I'm going to assume that you're using OSX. Command line in a Windows environment isn't too different, but for simplicity's sake, we'll stick with the Mac. I'm also going to assume you're using bash for a shell. Personally, I use zsh, but most computers are configured with bash to start out with. (You can look at Brent's post [here](http://quickleft.com/blog/switching-from-bash-to-zsh-in-os-x) for a guide). Either way, you'll be able to follow along with this guide.
+Before we begin, I'm going to assume that you're using OSX. Command line in a Windows environment isn't too different, but for simplicity's sake, we'll stick with the Mac. I'm also going to assume you're using bash for a shell. Personally, I use zsh, but most computers are configured with bash to start out with. Either way, you'll be able to follow along with this guide.
 
 Start by firing up your Terminal. If you've never done that before, you can use Spotlight to search for it (press Command and the space bar, then type "Terminal" and press enter). Make sure you pin it to your dock for easy access in the future. If you're successful, you'll have a command prompt!
 
@@ -42,5 +42,3 @@ cd ~/Desktop
 No matter where you are buried in your computer's files, this will bring you straight to your Desktop. This is an example of chaining folders on – in this example we are using `home/Desktop`, `home` of course being signified by the `~`. If you have any files or folders on your Desktop, you should be able to use the `cd ` + tab trick and see it all in your terminal. From there, you can choose available folders to `cd` into.
 
 Additionally, all the commands you enter into Terminal are saved. If you make a typo or type something the computer doesn't like (for instance, `cd`ing into a text file), then you can access the old command to fix it by pressing the up arrow. Pressing the up arrow again will take you further back into your old commands, and pressing down will show you newer commands.
-
-That's all for this post. Turn in two weeks from now for more information on creating, deleting, and moving files. Happy trails, command line trainees!

@@ -1,6 +1,6 @@
 # Command Line Tutorials – Xargs &amp; Cut
 
-Greetings, friends! Welcome back to my ongoing command line series. If this is your first time here, you might want to [check out]("http://quickleft.com/blog/command-line-tutorials-more-tips-tricks") some of the older posts before diving in. Today we're going to talk about the `xargs` command in depth, and then we'll touch on the cut command.
+This chapter we're going to talk about the `xargs` command in depth, and then we'll touch on the cut command.
 
 When you chain commands together to achieve a longer effect, you have a few different options. Typically you'll use a [pipe]("http://quickleft.com/blog/command-line-tutorials-redirection-pipes") to accomplish something longer, like so:
 
@@ -53,5 +53,3 @@ ls -la | cut -f 1 -d " "
 ```
 
 The `f` flag is exclusive to the `c` flag; that tells `cut` to grab fields instead of characters. Closely tied to the `f` flag is the `d` flag. That allows you to change the delimiter for `cut`, which is the tab character by default. That command will spit out the permissions for each file in your current directory, which isn't actually useful by itself, but serves as a nice example.
-
-Okay, that's all for this week! Tune in next time for more command line fun times (you're having fun right!?)!

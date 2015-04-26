@@ -1,8 +1,6 @@
 # Command Line Tutorials – Sed &amp; Awk
 
-Hey everybody, welcome back to my ongoing series on mastering your command line. It's time to  command and conquer! As always, make sure you check out some of the [other posts](http://quickleft.com/blog/command-line-tutorials-tips-tricks) in the series.
-
-This week we're going to take a look at two very important commands for your toolbox – `sed` and `awk`. These two commands are pretty powerful, but as a result, their learning curve can be pretty steep. I'll provide you an outline to get you up to speed on sed and awk, but there's more to these commands than I have room here to cover. Fortunately, there's a ton of information on the internet about these commands, and I encourage you to read up on them once we're done.
+It's time to  command and conquer! This chapter we're going to take a look at two very important commands for your toolbox – `sed` and `awk`. These two commands are pretty powerful, but as a result, their learning curve can be pretty steep. I'll provide you an outline to get you up to speed on sed and awk, but there's more to these commands than I have room here to cover. Fortunately, there's a ton of information on the internet about these commands, and I encourage you to read up on them once we're done.
 
 The first command we'll discuss is `sed`, which stands for "stream editor" – it gives you a nifty way to perform operations on files you're passing around through pipes. If that sounds confusing, hang on for one second – an example should help clear it up. One of the most common things you'll use sed for is text substitution, i.e. replacing certain text with something else. The syntax for doing that looks like this:
 

@@ -1,7 +1,5 @@
 # Command Line Tutorials – More Tips &amp; Tricks
 
-Hi everybody! We're serving up another helping of command line tips and tricks this week. Halloween is a couple months away still, but I'm tentatively calling this feature Trick and Treat. If you have no idea what this series is about, [check out my previous posts]("http://quickleft.com/blog/command-line-tutorials-sed-awk")!
-
 ## 1. Customizing your prompt
 
 This trick is for everybody still using bash as their shell, because the format is a little bit different for people using zsh [nice, long post](here's a ("http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/") about customizing your zsh prompt). For bash, there are a few different environment variables that are used when determining what your shell prints out for the prompt. The one we're interested in is PS1, so let's check out what's there.
@@ -47,5 +45,3 @@ The `fg` command is short for "foreground"; it brings a process forward. The syn
 ## 3. Control + R
 
 We've seen how you can combine the `grep` and `history` commands to find a particular command, then execute it. We've also seen that you can type !! to execute the last command. Here's the new trick that combines these two. If you press the control key in combination with `r`, then you can perform a backwards search on your history for a given phrase. When you press `control + r`, you'll get a prompt that says `bck-i-search:`. Type in a phrase, and your prompt will be automatically completed with the last command that contained that phrase. If you keep pressing `control + r`, then the search will iterate backwards over your history, finding the next match. Executing the command listed is as simple as pressing enter!
-
-That's it for this week. Those are pretty huge morsels, so do some more research on your own and see what you can come up with. As always, leave your comments and questions below!

@@ -2,7 +2,7 @@
 
 ![Olympic Curling](https://quickleft.com/wp-content/uploads/main_b8efeaf9-cdf2-4ebe-b09c-0c4968a2c55b.jpeg)
 
-Hey everybody! Welcome back to my ongoing command line series. Check out the older posts [here]("http://quickleft.com/blog/command-line-tutorials-irb-bash"). This week we're going to cover one command in depth, since it's a pretty important one. We're going to learn about `curl`, and if time permits – curling!
+In this chapter we're going to cover one command in depth, since it's a pretty important one. We're going to learn about `curl`, and if time permits – curling!
 
 `curl` is "a command line tool for getting or sending files using URL syntax." It might help to read it as cURL, in order to help remind yourself what it does. First, to get some information, type:
 
@@ -58,4 +58,4 @@ curl https://raw.github.com/leachim6/hello-world/master/r/ruby.rb | ruby
 
 After downloading the source (you'll get the chart again (charts are neat)), you should see the output of the script. That's a very simple application of using `curl` and ruby, but you get the picture. If you've installed RVM before, you used `curl` to retrieve a bash script, that you then passed into bash. Check out [the RVM install page]("https://rvm.io/rvm/install/"), and peep the first command. It should make a lot more sense to you, now that you know what `curl` is!
 
-That's all for today! Maybe we can get to curling in the next post.
+That's all for today! Maybe we can get to curling in the next chapter.

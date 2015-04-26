@@ -1,7 +1,5 @@
 # Command Line for Beginners Part 2
 
-You're back and ready for more command line goodness? If you haven't yet, make sure to [read Part 1]("http://www.quickleft.com/blog/command-line-for-beginners-part-1").
-
 So you know how to make the computer change directories, and you're able to print the contents of the directory. What about making a directory? How do you do that? From your home directory ("~"), type:
 
 ```
@@ -73,5 +71,3 @@ rmdir practice
 This deletes the practice directory. An important note about the `rmdir` command: the folder MUST be empty. bash will bark at you if it's not. If you've been following along, then it should be empty anyway.
 
 If you want to delete an entire directory, including the contents, you can type `rm -rf <directoryname>`. Be careful with this, as it's a powerful tool! Never, EVER type `rm -rf /`. With those flags set, you'll delete your entire root directory, otherwise known as the most important directory on your computer. This is a common prank that people like to pull on command line newbies, so be on your guard.
-
-That's all for this installment! Tune in two weeks from now to learn more command line goodness!

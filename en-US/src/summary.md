@@ -1,7 +1,5 @@
 # Command Line Tutorials – Summary & What’s Next
 
-Welcome back to my blog post series! Back in January, we set out to learn as much as we could about utilizing the command line from the perspective of a complete and total beginner. I don't know about you, but I've definitely picked up a lot of command line chops just in the process of researching and writing these posts. I thought it'd be useful to lay out what what we've gone over, as both a refresher and an indicator of how much ground we've covered.
-
 ## Command Line Basics [(Pt. 1)]("http://quickleft.com/blog/command-line-for-beginners-part-1"), [(Pt. 2)]("http://quickleft.com/blog/command-line-for-beginners-part-2")
 
 The first and second posts described the very basics of command line usage. We covered how to launch your Terminal for the very first time, how to navigate through your directories from the command line,  how to destroy/create both files and folders, how to move and copy files, and how to print the contents of a file out onto your screen.

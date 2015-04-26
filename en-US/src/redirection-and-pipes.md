@@ -1,8 +1,6 @@
 # Command Line Tutorials – Redirection &amp; Pipes
 
-Hey there, hackers! By now, you're becoming pretty proficient at the command line, but if this is your first time here, you should check out the [previous parts]("http://quickleft.com/blog/command-line-tutorials-finding-grepping") in this series.
-
-Today we're going to look at a few basic operators that your shell supports. The operators we're examining allow you to send a command's output to different places, like files or even other commands. Formally, this is called "redirection", and it's one of Bash's coolest features.
+This chapter we're going to look at a few basic operators that your shell supports. The operators we're examining allow you to send a command's output to different places, like files or even other commands. Formally, this is called "redirection", and it's one of Bash's coolest features.
 
 For a quick example, let's try putting our current directory's filepath into a file, just for safekeeping:
 
@@ -65,5 +63,3 @@ ls -la | head &gt;&gt; new_file
 ```
 
 First, we're listing the contents of our directory, then we're grabbing the top 10 listed and adding them to the file "new_file".
-
-That's all for this week! Try out some of these operators on your own, and post some of the cool commands you write in the comments below!

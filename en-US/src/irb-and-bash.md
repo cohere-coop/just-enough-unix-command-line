@@ -1,8 +1,6 @@
 # Command Line Tutorials – IRB & Bash
 
-And we're back! This week we're going to cover some more scripting. Make sure you refer to [this post]("http://quickleft.com/blog/command-line-tutorials-scripting") if you're lost, since this week we're going a little bit deeper. If you haven't read any of these, make sure to check out some [previous posts]("http://quickleft.com/blog/command-line-tutorials-ssh") to catch up.
-
-We're going to mix up Ruby and bash this week and see if we can do something cool along the way. If you don't know Ruby, don't worry: we won't do anything super complicated. You should have Ruby installed by default if you're using OSX. If not, check out [this site]("http://www.ruby-lang.org/en/downloads/") to download it.
+This chapter we're going to cover some more scripting. We're going to mix up Ruby and bash this week and see if we can do something cool along the way. If you don't know Ruby, don't worry: we won't do anything super complicated. You should have Ruby installed by default if you're using OSX. If not, check out [this site]("http://www.ruby-lang.org/en/downloads/") to download it.
 
 First, type:
 
@@ -45,5 +43,3 @@ puts `cat ~/temp/test.html`.split.first
 ```
 
 This grabs the contents of temp/test.html, splits it into chunks based on white space, then prints (`puts`) the first one out to the command line.
-
-That's all for this week! If you're a Ruby enthusiast, play around with all of the different bash skills we've acquired and see what cool things you can do!

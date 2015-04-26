@@ -1,6 +1,6 @@
 # Command Line Tutorials – Path
 
-Hey hackers, long time no blog! Well that's changing today – we're gonna talk a little bit about your path variable and some related commands. As always, make sure to read the [older posts]("http://quickleft.com/blog/command-line-tutorials-curl") in the series if you haven't yet.
+This chapter we're gonna talk a little bit about your path variable and some related commands.
 
 *Just for a quick note – these directory structures are reflective of OSX. If you are using a different operating system, these paths might not be correct.*
 
@@ -53,5 +53,3 @@ which printenv
 ```
 
 The 'which' command tells you where the command on the right lives. For `printenv`, you should see `/usr/bin/printenv`. This is useful for debugging – if you try to execute a command and your shell barks at you, telling you it can't find it, then try using 'which' to locate the command in question. Usually this happens when I think a command is in my path, but it's really not – that's when I edit `PATH` using one of the two methods above.
-
-Hopefully this gives you a good start on using PATH, and as usual feel free to leave comments with questions or anything you'd like to see covered!

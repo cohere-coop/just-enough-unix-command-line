@@ -1,6 +1,6 @@
 Command Line Tutorials – Tips &amp; Tricks
 
-Are you ready for some more command line goodness? This week we've got a veritable cornucopia of small tricks and tips to improve your terminal skills. If you're not familiar with this series, [check out some of the older posts]("http://quickleft.com/blog/command-line-tutorials-linking")!
+Are you ready for some more command line goodness? This chapter we've got a veritable cornucopia of small tricks and tips to improve your terminal skills.
 
 ## 1. Alerts for process completion
 
@@ -47,5 +47,3 @@ To jump to the beginning of the line, use `ctrl + a`. Similarly, to get to the e
 To move back and forth between individual characters (just like the left and right arrow keys, but now you don't have to move your hand), use `ctrl + b` and `ctrl + f`. These are also easy to remember: `b` for back, and `f` for forward.
 
 To move between words in the command line, use `esc + b` and `esc + f`. This is a little bit more of a reach for your hand, but the ability to move between words is incredibly useful.
-
-Alright party people, that's it for this week. If you have any favorite command line tidbits of your own, post it in the comments below!

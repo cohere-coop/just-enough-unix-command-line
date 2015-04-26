@@ -1,8 +1,6 @@
 # Command Line Tutorials – System Profiler & Top
 
-Welcome back to our command line studies! Unless of course this is your first time here, in which case you should get acquainted with the [rest of the series]("http://quickleft.com/blog/command-line-tutorials-scripting") first.
-
-Today we're going to cover a couple commands that you should find useful at some point. The first is the `system_profiler` command. Run without any arguments, the command simply spits out a (huge) list of your computer's current configuration. The information includes practically everything about your computer; it's like the "About This Mac" utility on steroids. Type:
+This chapter we're going to cover a couple commands that you should find useful at some point. The first is the `system_profiler` command. Run without any arguments, the command simply spits out a (huge) list of your computer's current configuration. The information includes practically everything about your computer; it's like the "About This Mac" utility on steroids. Type:
 
 ```
 man system_profiler
@@ -50,5 +48,3 @@ kill 1234
 ```
 
 …substituting `1234` with the `PID` you just found. Switch back to the other Terminal window and you'll see that your table is gone.
-
-Hope you enjoyed checking out these commands! Come back in two weeks time for more command line fun!

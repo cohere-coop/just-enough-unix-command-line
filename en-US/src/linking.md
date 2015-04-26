@@ -1,6 +1,6 @@
 # Command Line Tutorials – Linking
 
-Hi! Welcome back to our ongoing Command Line series. If this is your first time, [check out some of the older posts]("http://quickleft.com/blog/command-line-tutorials-path"). This week we're going to talk about links, both soft and hard!
+This chapter we're going to talk about links, both soft and hard!
 
 So what's a soft link? For that matter, what's a hard link? Let's backtrack a little bit before we answer that. Your operating system has a filepath for every file on your system; you already know that most commands need a filepath to do their thing — think `ls`, `mv`, `cp`, etc. Filepaths are crucial to your computer's basic operation. To that end, your computer gives you a couple options for creating links to files; not necessarily changing the filepath itself, but enabling you to create an alias, or a shortcut to the file.
 
@@ -48,5 +48,3 @@ echo "knuckle tat: dawg life" > hard
 Now, check the original file. You should see the contents have been replaced with your new tattoo idea!
 
 Now, here's an important note about OSX and hard links: if you use a text editor like TextEdit, TextMate, or Sublime to edit the hard link, it'll break the link! The two files will then have different content, which defeats the entire purpose of using a link. For more information on why that occurs, [check out this Super User post]("http://superuser.com/questions/302051/how-do-you-create-a-working-hard-link-in-osx"). You can edit the hard link using `vi` or `echo` (like above) freely, plus you'll earn bonus command line points.
-
-Alright people, that's a wrap for this week. Happy linking, friends!

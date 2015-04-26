@@ -1,6 +1,6 @@
 Command Line Tutorials – Finding &amp; Grepping
 
-We're serving up some more command line in our biweekly series. [Part 1]("http://quickleft.com/blog/command-line-for-beginners-part-1") and [Part 2]("http://quickleft.com/blog/command-line-for-beginners-part-2") covered the very basics, so make sure to brush up on that stuff. Today we're going to cover a few slightly more advanced topics, so strap yourself in and fire up your Terminal!
+We're going to cover a few slightly more advanced topics in this chapter, so strap yourself in and fire up your Terminal!
 
 Your Terminal has a couple built in commands intended for searching, be it for files or for the contents of a file. The first one is find, and it searches a directory for files. Let's say you want to list all the pathnames of all the ".jpg"'s in your home directory. You could type:
 
@@ -75,5 +75,3 @@ lsof | grep 1234
 ```
 
 …replacing `1234` with the appropriate process number.
-
-That's all for this week! Come back two weeks from now for more, but for now, get out there and practice!

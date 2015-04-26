@@ -1,4 +1,4 @@
-Command Line Tutorials – Tips &amp; Tricks
+# Tips & Tricks
 
 Are you ready for some more command line goodness? This chapter we've got a veritable cornucopia of small tricks and tips to improve your terminal skills.
 
@@ -10,7 +10,7 @@ When you're executing a command that takes a while to finish, you can do somethi
 rake db:migrate && say "all done"
 ```
 
-This is similar to a trick we saw last week. You can execute two commands on the same line by separating them with a semicolon, or you can use a boolean and ('&amp;&amp;'). The second command will only fire if the first one was successful. If your first command finishes without erroring out, the second one will fire – in this case, causing your computer's text-to-speech to say aloud whatever you typed in. While that's a neat trick, your environment might be inappropriate for sound. In that case, you should check out [Growl]("http://growl.info/"), an OSX tool that manages notifications*.
+This is similar to a trick we saw last week. You can execute two commands on the same line by separating them with a semicolon, or you can use a boolean and ('&&'). The second command will only fire if the first one was successful. If your first command finishes without erroring out, the second one will fire – in this case, causing your computer's text-to-speech to say aloud whatever you typed in. While that's a neat trick, your environment might be inappropriate for sound. In that case, you should check out [Growl]("http://growl.info/"), an OSX tool that manages notifications*.
 
 * Also check out [Ruby Growl]("http://segment7.net/projects/ruby/growl/") for notifications, a fantastic suggestion by [Ben Johnson]("https://twitter.com/benbjohnson"). *
 

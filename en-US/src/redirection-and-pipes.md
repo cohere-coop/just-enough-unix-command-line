@@ -1,4 +1,4 @@
-# Command Line Tutorials – Redirection &amp; Pipes
+# Redirection & Pipes
 
 This chapter we're going to look at a few basic operators that your shell supports. The operators we're examining allow you to send a command's output to different places, like files or even other commands. Formally, this is called "redirection", and it's one of Bash's coolest features.
 

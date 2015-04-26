@@ -1,4 +1,4 @@
-# Command Line Tutorials – Curl
+# Curl
 
 In this chapter we're going to cover one command in depth, since it's a pretty important one. We're going to learn about `curl`, and if time permits – curling!
 

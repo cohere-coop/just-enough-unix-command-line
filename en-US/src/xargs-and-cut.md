@@ -1,4 +1,4 @@
-# Command Line Tutorials – Xargs &amp; Cut
+# Xargs & Cut
 
 This chapter we're going to talk about the `xargs` command in depth, and then we'll touch on the cut command.
 

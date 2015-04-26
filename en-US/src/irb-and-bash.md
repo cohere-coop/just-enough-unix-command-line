@@ -1,4 +1,4 @@
-# Command Line Tutorials – IRB & Bash
+# IRB & Bash
 
 This chapter we're going to cover some more scripting. We're going to mix up Ruby and bash this week and see if we can do something cool along the way. If you don't know Ruby, don't worry: we won't do anything super complicated. You should have Ruby installed by default if you're using OSX. If not, check out [this site]("http://www.ruby-lang.org/en/downloads/") to download it.
 
@@ -14,7 +14,7 @@ Okay, you should have a Ruby prompt. We're going to tell Ruby to do something 10
 
 ```
 10.times do |i|
-&nbsp;&nbsp;`touch ~/#{i}.txt`
+  `touch ~/#{i}.txt`
 end
 ```
 
@@ -30,7 +30,7 @@ Let's do a little cleanup on those files.
 
 ```
 10.times do |i|
-&nbsp;&nbsp;`rm ~/#{i}.txt`
+  `rm ~/#{i}.txt`
 end
 ```
 

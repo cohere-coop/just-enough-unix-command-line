@@ -1,4 +1,4 @@
-# Command Line Tutorials – System Profiler & Top
+# System Profiler & Top
 
 This chapter we're going to cover a couple commands that you should find useful at some point. The first is the `system_profiler` command. Run without any arguments, the command simply spits out a (huge) list of your computer's current configuration. The information includes practically everything about your computer; it's like the "About This Mac" utility on steroids. Type:
 

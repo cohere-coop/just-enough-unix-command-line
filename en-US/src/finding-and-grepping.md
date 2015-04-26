@@ -1,4 +1,4 @@
-Command Line Tutorials – Finding &amp; Grepping
+# Finding & Grepping
 
 We're going to cover a few slightly more advanced topics in this chapter, so strap yourself in and fire up your Terminal!
 
@@ -29,7 +29,7 @@ The "." is a wildcard; it matches any character just once; for instance, output 
 ```
 blog
 blag
-bl&amp;g
+bl&g
 ```
 
 There are way more wildcards than just "." though. To whet your appetite, take a look at [this site]("http://www.panix.com/~elflord/unix/grep.html").

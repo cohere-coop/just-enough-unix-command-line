@@ -1,7 +1,5 @@
 # Command Line Tutorials – Curl
 
-![Olympic Curling](https://quickleft.com/wp-content/uploads/main_b8efeaf9-cdf2-4ebe-b09c-0c4968a2c55b.jpeg)
-
 Hey everybody! Welcome back to my ongoing command line series. Check out the older posts [here]("http://quickleft.com/blog/command-line-tutorials-irb-bash"). This week we're going to cover one command in depth, since it's a pretty important one. We're going to learn about `curl`, and if time permits – curling!
 
 `curl` is "a command line tool for getting or sending files using URL syntax." It might help to read it as cURL, in order to help remind yourself what it does. First, to get some information, type:

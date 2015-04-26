@@ -14,8 +14,6 @@ First we perform an echo on a string, so we have some data to actually work with
 
 First, we have "s", for substitute. Next is "/", our delimiter for separating the different components of the command (note that you're not limited to just "/"; if what you're searching for contains slashes, it might be more convenient to use an underscore or a colon). After the first delimiter, we have a [regular expression]("http://en.wikipedia.org/wiki/Regular_expression") for the text we'd like to replace. Finally, we have another delimiter, followed by the replacement string (i.e. what you'd like the old text to say after running the command), with a trailing delimiter after that. Phew, that's lengthy!
 
-!["It's a tarp!"](/wp-content/uploads/main_15b812a1-526e-45fb-b7fc-d5972d1c8492.jpeg)
-
 Try out that command, and you should see "it's a tarp" printed out. Substitution on a basic string isn't too useful, so let's try it out on a file instead. Type the following two commands:
 
 ```

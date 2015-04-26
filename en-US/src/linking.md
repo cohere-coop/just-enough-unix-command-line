@@ -6,8 +6,6 @@ So what's a soft link? For that matter, what's a hard link? Let's backtrack a li
 
 Armed with that knowledge, let's delve into hard links. When you create a hard link, you're essentially giving a file another name; another filepath. After you create the hard link, you can use either name to refer to the exact same file. For instance, you could edit one file with `vi`, then `cat` the contents of the other file and see your changes.
 
-![Command Line Tutorials - Links]("https://quickleft.com/wp-content/uploads/main_dca7d98b-7361-43aa-94fa-d842010253ce.png")
-
 By comparison, a soft link (aka a "symbolic link", or "symlink") doesn't link to a file — it links to a file name. Woah. Inception. This sounds crazy, but maybe an example will help. Recently, I converted to Sublime Text from TextMate. One thing I loved about TextMate was its command line tool, which made it super easy to open a file in TextMate from a command prompt. I wanted that behavior with Sublime, so I followed [this guide]("http://www.sublimetext.com/docs/2/osx_command_line.html") from the Sublime Text documentation. The first command in the guide is:
 
 ```

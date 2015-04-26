@@ -2,13 +2,13 @@
 
 ## Command Line Basics Pt. 1 and Pt. 2
 
-The first and second posts described the very basics of command line usage. We covered how to launch your Terminal for the very first time, how to navigate through your directories from the command line,  how to destroy/create both files and folders, how to move and copy files, and how to print the contents of a file out onto your screen.
+The first and second chapters described the very basics of command line usage. We covered how to launch your Terminal for the very first time, how to navigate through your directories from the command line,  how to destroy/create both files and folders, how to move and copy files, and how to print the contents of a file out onto your screen.
 
 Commands covered: `cd`, `ls`, `pwd`, `mkdir`, `touch`, `vi`, `rm`, `rmdir`, `mv`, `cp`, `cat
 
 ## Finding and Grepping
 
-In the next post, we discussed commands intended for searching. The 'find' command searches for filenames, and the `grep` command searches through file contents. We also covered using `grep` in combination with the `history` and `ps aux` commands, in order to find a particular command or process.
+In the next chapter, we discussed commands intended for searching. The 'find' command searches for filenames, and the `grep` command searches through file contents. We also covered using `grep` in combination with the `history` and `ps aux` commands, in order to find a particular command or process.
 
 Commands covered: `find`, `grep`, `history`, `ps aux`, `lsof`
 
@@ -32,13 +32,13 @@ Commands covered: `man`, `systemprofiler`, `top`, `kill_`
 
 ## SSH
 
-In this post, we covered the basics of using the `ssh` and `scp` commands to get access to another server/computer. We discussed logging in (and out) with `ssh`, then running commands remotely. We then used the `scp` command to put move a local file onto a server, then we reversed that process to move a remote file onto our local machine.
+In this chapter, we covered the basics of using the `ssh` and `scp` commands to get access to another server/computer. We discussed logging in (and out) with `ssh`, then running commands remotely. We then used the `scp` command to put move a local file onto a server, then we reversed that process to move a remote file onto our local machine.
 
 Commands covered: `ssh`, `scp`
 
 ## IRB and Bash
 
-This post showed how to mix basic bash commands with some Ruby goodness. We fired up `irb`, an interactive Ruby REPL (read, evaluate, print, and loop) to repeatedly execute bash commands. We also used `irb` to use more advanced Ruby commands to achieve something that'd be harder in bash.
+This chapter showed how to mix basic bash commands with some Ruby goodness. We fired up `irb`, an interactive Ruby REPL (read, evaluate, print, and loop) to repeatedly execute bash commands. We also used `irb` to use more advanced Ruby commands to achieve something that'd be harder in bash.
 
 Commands covered: `irb`
 
@@ -74,6 +74,6 @@ Commands covered: `xargs` (with various flags), `cut` (with various flags)
 
 ## Tips & Tricks
 
-These chapters covered some smaller odds and ends that didn't merit their own chapter, along with some tips for efficient use of the command line. I encouraged you guys to add some tips of your own, and you guys did not disappoint! I definitely recommend reading the comments on these posts if you haven't already, because you might learn something new.
+These chapters covered some smaller odds and ends that didn't merit their own chapter, along with some tips for efficient use of the command line. I encouraged you guys to add some tips of your own, and you guys did not disappoint! I definitely recommend reading the comments on these chapters if you haven't already, because you might learn something new.
 
 Commands/operators covered: `&&`, `!!`, `pushd`, `popd`, `jobs`, `fg`

@@ -1,4 +1,4 @@
-# Command Line Tutorials – Path
+# Path
 
 This chapter we're gonna talk a little bit about your path variable and some related commands.
 

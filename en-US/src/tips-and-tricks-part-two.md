@@ -1,4 +1,4 @@
-# Command Line Tutorials – More Tips &amp; Tricks
+# More Tips & Tricks
 
 ## 1. Customizing your prompt
 
@@ -22,7 +22,7 @@ This will make your prompt look something like this: `[21:51:42 ~] $`. We have t
 
 ## 2. Background Tasks
 
-If you've ever run a command that takes ahold of your prompt and won't let go until you terminate it, this trick might be useful for you. To run a command in the background (i.e., without relinquishing control of your shell), append '&amp;' to the end of the command. As an example, we'll use a command we've covered before that takes up your prompt, although it won't be the most useful command to run in the background:
+If you've ever run a command that takes ahold of your prompt and won't let go until you terminate it, this trick might be useful for you. To run a command in the background (i.e., without relinquishing control of your shell), append '&' to the end of the command. As an example, we'll use a command we've covered before that takes up your prompt, although it won't be the most useful command to run in the background:
 
 ```
 top &

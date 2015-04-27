@@ -1,4 +1,4 @@
-# Command Line Tutorials – Linking
+# Linking
 
 This chapter we're going to talk about links, both soft and hard!
 

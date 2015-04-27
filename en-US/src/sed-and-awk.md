@@ -1,4 +1,4 @@
-# Command Line Tutorials – Sed &amp; Awk
+# Sed & Awk
 
 It's time to  command and conquer! This chapter we're going to take a look at two very important commands for your toolbox – `sed` and `awk`. These two commands are pretty powerful, but as a result, their learning curve can be pretty steep. I'll provide you an outline to get you up to speed on sed and awk, but there's more to these commands than I have room here to cover. Fortunately, there's a ton of information on the internet about these commands, and I encourage you to read up on them once we're done.
 

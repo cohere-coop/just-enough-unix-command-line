@@ -1,4 +1,4 @@
-# Command Line Tutorials – SSH
+# SSH
 
 This chapter, we're going to talk about two commands related to accessing other servers or computers. If you've ever plan on deploying your software to a server, then remote computing is an important skill to have. Luckily, it's not too hard.
 

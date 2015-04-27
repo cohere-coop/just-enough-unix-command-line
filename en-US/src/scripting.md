@@ -1,4 +1,4 @@
-# Command Line Tutorials – Scripting
+# Scripting
 
 Okay, Command-os (I'm so sorry, the joke had to be made), let's get back to it. This chapter, we're going to look at scripting in a very general sense. Scripting is a complex topic that would be hard to cover in just one post, but it's a handy thing to know the basics. Put simply, scripting is like storing a bunch of commands into a file and executing them one-by-one.
 

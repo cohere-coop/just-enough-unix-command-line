@@ -8,4 +8,5 @@ creator:
 publisher: Just Enough Media
 rights: © 2015 Zinc Technology Inc, CC BY-NC
 language: en-US
+cover-image: design/Cover.png
 ---

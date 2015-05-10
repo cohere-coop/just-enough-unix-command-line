@@ -7,8 +7,8 @@ This is a *very early release* and we're eager to get your feedback.
 If you find an error or omission, or want to give us some advice, please send
 feedback to [http://support.justenough.media](support.justenough.media)
 
-Make sure you include the page number, as well as this books version number:
-0.1.1.
+Make sure you include the page number, as well as this books version number
+(Found on the title page).
 
 ## About This Book
 

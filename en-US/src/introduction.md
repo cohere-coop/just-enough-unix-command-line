@@ -1,6 +1,6 @@
 # Introduction
 
-If there's one thing that separates code masters from the unknowing masses, it's their ability to use the command line effectively. When I began coding, I quickly realized that by utilizing the command line, many tasks became easier and faster. Your computer is smart; you just have to learn to speak its language.
+One thing that separates advanced practitioners from beginners is the comfort and ease with which they use the UNIX command line. The command line, while intimidating can make many tasks easier and faster. Learning the command line allows you to speak directly with the computer; instead of having to wade through a translator.
 
 We're going to start off slow, getting you accustomed to navigating your computer using the Terminal application, but as we go, you'll learn more and more commands, along with some bonus efficiency tips and exciting command line theory! Remember, it's important to take it slow and build a solid foundation, but soon you'll be hacking away like a pro.
 

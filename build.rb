@@ -23,4 +23,4 @@ end
 
 files = ["en-US/title.txt"] + ["en-US/01-errata.md"] + chapters
 
-`pandoc --toc -S -o output/just-enough-command-line-en-us.epub #{files.join(" ")}`
+`pandoc --toc -S --template=en-US/template.html -o output/just-enough-command-line-en-us.epub #{files.join(" ")}`

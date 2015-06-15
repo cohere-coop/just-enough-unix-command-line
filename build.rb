@@ -1,4 +1,5 @@
 chapter_name_order = ["introduction",
+                      "pwd",
                       "command-line-basics-part-two",
                       "finding-and-grepping",
                       "redirection-and-pipes",

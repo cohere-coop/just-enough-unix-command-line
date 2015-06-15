@@ -1,4 +1,4 @@
-chapter_name_order = ["command-line-basics-part-one",
+chapter_name_order = ["introduction",
                       "command-line-basics-part-two",
                       "finding-and-grepping",
                       "redirection-and-pipes",
